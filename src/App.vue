@@ -131,6 +131,7 @@ const buttonClasses = (btn) => {
   }
   return baseClasses
 }
+
 </script>
 
 <style scoped></style>
